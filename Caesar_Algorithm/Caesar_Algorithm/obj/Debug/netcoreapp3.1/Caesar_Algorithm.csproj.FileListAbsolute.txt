@@ -1,0 +1,13 @@
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.exe
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.deps.json
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.runtimeconfig.json
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.runtimeconfig.dev.json
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.dll
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\bin\Debug\netcoreapp3.1\Caesar_Algorithm.pdb
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.AssemblyInfo.cs
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.dll
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.pdb
+C:\Users\ardak\source\repos\Caesar_Algorithm\Caesar_Algorithm\obj\Debug\netcoreapp3.1\Caesar_Algorithm.genruntimeconfig.cache
